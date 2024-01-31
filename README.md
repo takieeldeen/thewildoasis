@@ -23,24 +23,31 @@ The Project was built using React cutting edge technology like React Router for 
 ## Here you can see different screens from the app
 
 ### 01.Login Screen
+![01](https://github.com/takieeldeen/thewildoasis/assets/47431097/4ebc06e8-87cf-4211-a0ed-e96b2c6bb2e2)
 
 ![01](https://github.com/takieeldeen/thewildoasis/assets/47431097/4ebc06e8-87cf-4211-a0ed-e96b2c6bb2e2)
 
 ### 02.Main dashboard Screen
+![02](https://github.com/takieeldeen/thewildoasis/assets/47431097/2dae9360-2020-4248-9b6a-aa2c6ec77115)
+![02-L](https://github.com/takieeldeen/thewildoasis/assets/47431097/61e20fe5-2ac8-4fd5-b7cb-37f70db4b20c)
 
 ![02](https://github.com/takieeldeen/thewildoasis/assets/47431097/2dae9360-2020-4248-9b6a-aa2c6ec77115)
 ![02-L](https://github.com/takieeldeen/thewildoasis/assets/47431097/61e20fe5-2ac8-4fd5-b7cb-37f70db4b20c)
 
 ### 03.Bookings Screen
+![03](https://github.com/takieeldeen/thewildoasis/assets/47431097/a4f88d38-bda1-4504-87ef-8358dd77b0d6)
+![03-L](https://github.com/takieeldeen/thewildoasis/assets/47431097/2106af3c-f625-4194-a17f-50395fd211da)
 
 ![03](https://github.com/takieeldeen/thewildoasis/assets/47431097/a4f88d38-bda1-4504-87ef-8358dd77b0d6)
 ![03-L](https://github.com/takieeldeen/thewildoasis/assets/47431097/2106af3c-f625-4194-a17f-50395fd211da)
 
 ### 04.Cabins Screen
+![04](https://github.com/takieeldeen/thewildoasis/assets/47431097/b4e67b76-0fb7-4fb8-bcbd-ac2da7c2e721)
 
 ![04](https://github.com/takieeldeen/thewildoasis/assets/47431097/b4e67b76-0fb7-4fb8-bcbd-ac2da7c2e721)
 
 ### 05.Managing account details screen
+![05](https://github.com/takieeldeen/thewildoasis/assets/47431097/36d36c65-b7cb-4e0d-a406-9aaa93d27a97)
 
 ![05](https://github.com/takieeldeen/thewildoasis/assets/47431097/36d36c65-b7cb-4e0d-a406-9aaa93d27a97)
 
